@@ -1,0 +1,6 @@
+# npm
+node_modules/
+
+# dist
+dist/
+demo/execution_code
